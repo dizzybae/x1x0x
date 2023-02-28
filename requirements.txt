@@ -69,9 +69,6 @@ pthread-stubs=0.4=h14c3975_1001
 py-opencv=3.4.2=py37hb342d67_1
 pyasn1=0.4.8=pypi_0
 pyasn1-modules=0.2.8=pypi_0
-python=3.7.6=h0371630_2
-python_abi=3.7=1_cp37m
-pytorch=1.4.0=py3.7_cuda10.1.243_cudnn7.6.3_0
 pyyaml=5.3=pypi_0
 readline=7.0=h7b6447c_5
 requests=2.23.0=pypi_0
@@ -82,7 +79,6 @@ six=1.14.0=py37_0
 sqlite=3.31.1=h7b6447c_0
 tensorboard=2.1.1=pypi_0
 tk=8.6.8=hbc83047_0
-torchvision=0.5.0=py37_cu101
 urllib3=1.25.8=pypi_0
 werkzeug=1.0.0=pypi_0
 wheel=0.34.2=py37_0
